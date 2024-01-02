@@ -1,2 +1,3 @@
-# grind-75
-Grind 75 Code Challanges
+# Grind-75
+
+Grind 75 Code Challenges
